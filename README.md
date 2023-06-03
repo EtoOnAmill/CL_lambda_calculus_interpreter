@@ -9,4 +9,4 @@ To stop evaluation early type `finish`
 To close the program type `quit`
 
 That is all. It is deeply untested and might still have some bugs.
-This is a personal progect criticism is appreciated since i always strive to be better.
+This is a personal progect so criticism is appreciated since i always strive to be better.
